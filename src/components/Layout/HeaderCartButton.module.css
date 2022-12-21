@@ -10,7 +10,7 @@
   align-items: center;
   border-radius: 25px;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 2rem;
 }
 
 .button:hover,
@@ -19,8 +19,8 @@
 }
 
 .icon {
-  width: 1.35rem;
-  height: 1.35rem;
+  width: 2.35rem;
+  height: 2.35rem;
   margin-right: 0.5rem;
 }
 
