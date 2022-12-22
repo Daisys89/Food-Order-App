@@ -2,7 +2,8 @@
   cursor: pointer;
   font: inherit;
   border: none;
-  background-color: #94d82d;
+  /* background-color: #94d82d; */
+  background-color: #8ce99a;
   color: #0d2913;
   padding: 0.75rem 4rem;
   display: flex;
@@ -15,7 +16,7 @@
 
 .button:hover,
 .button:active {
-  background-color: #74b816;
+  background-color: #70ba7b;
 }
 
 .icon {
