@@ -8,6 +8,8 @@
 
 html {
   font-family: 'Ubuntu', sans-serif;
+  /* font-size: 10px. Percentage of user's browser font-size setting (default 16px) 
+  10px / 16px = 0.625 = 62.5% */
   font-size: 62.5%;
 }
 
@@ -22,3 +24,61 @@ body {
   margin: 0;
   background-color: #3f3f3f;
 }
+
+/* FOOD ORDER APP - CSS STYLES 
+
+############### 01 TYPOGRAPHY SYSTEM  ###############
+
+FONT SIZE SYSTEM : 10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+FONT WEIGHTS
+H1: 700
+body: 400
+
+LINE HEIGHTS
+
+LETTER SPACING
+
+############### 02 COLORS ############### 
+
+BODY 
+background-color: #3f3f3f;
+
+HEADER 
+background-color: #113719;
+color: #fff;
+
+SUMMARY 
+background-color: #383838;
+color: #fff;
+
+CARD
+background-color: #fff;
+
+Primary
+Tints
+Shades
+Accents
+Greys
+
+############### 03 IMAGES AND ILLUSTRATIONS ###############
+
+############### 04 ICONS ###############
+
+############### 05 SHADOWS ###############
+
+box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+
+############### 06 BORDER RADIUS ###############
+
+############### 07 WHITE SPACE ###############
+
+SPACING SYSTEM : 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128 
+
+############### 08 VISUAL HIERARCHY ###############
+
+############### 09 USER EXPERIENCE ###############
+
+############### 10 COMPONENTS AND LAYOUT ###############
+
+*/
