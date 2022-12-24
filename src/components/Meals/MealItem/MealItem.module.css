@@ -5,6 +5,7 @@
   padding-bottom: 1rem;
   border-bottom: 1px solid #ccc;
   color: #2e281e;
+  font-size: 1.2rem;
 }
 
 .meal h3 {
@@ -19,5 +20,5 @@
   margin-top: 0.25rem;
   font-weight: 700;
   color: #d9480f;
-  font-size: 1.25rem;
+  font-size: 1.4rem;
 }

@@ -18,6 +18,10 @@ h1 {
   font-weight: 700;
 }
 
+h3 {
+  font-size: 1.4rem;
+}
+
 body {
   /* line-height: 1; */
   font-weight: 400;
