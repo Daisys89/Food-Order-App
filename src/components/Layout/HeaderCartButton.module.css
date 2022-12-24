@@ -3,8 +3,9 @@
   font: inherit;
   border: none;
   /* background-color: #94d82d; */
-  background-color: #8ce99a;
-  color: #0d2913;
+  background-color: #216f30;
+  /* color: #0d2913; */
+  color: #fff;
   padding: 0.75rem 4rem;
   display: flex;
   justify-content: space-around;
@@ -26,7 +27,7 @@
 }
 
 .badge {
-  background-color: #ff922b;
+  background-color: #fd7e14;
   padding: 0.25rem 1rem;
   border-radius: 25px;
   margin-left: 1rem;
