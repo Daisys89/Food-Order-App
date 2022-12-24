@@ -26,6 +26,13 @@ body {
   background-color: #ffe8cc;
 }
 
+@media (max-width: 25em) {
+  h1 {
+    font-size: 3rem;
+    font-weight: 500;
+  }
+}
+
 /* FOOD ORDER APP - CSS STYLES 
 
 ############### 01 TYPOGRAPHY SYSTEM  ###############
