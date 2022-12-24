@@ -3,7 +3,7 @@
   font: inherit;
   border: none;
   /* background-color: #94d82d; */
-  background-color: #216f30;
+  background-color: #267e36;
   /* color: #0d2913; */
   color: #fff;
   padding: 0.75rem 4rem;
@@ -17,7 +17,7 @@
 
 .button:hover,
 .button:active {
-  background-color: #70ba7b;
+  background-color: #1c5f29;
 }
 
 .icon {
