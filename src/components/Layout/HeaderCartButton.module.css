@@ -11,7 +11,7 @@
   justify-content: space-around;
   align-items: center;
   border-radius: 25px;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 2rem;
 }
 
@@ -58,5 +58,13 @@
   }
   100% {
     transform: scale(1);
+  }
+}
+
+@media (max-width: 25em) {
+  .button {
+    padding: 0.5rem 2.5rem;
+    font-weight: 500;
+    font-size: 1.6rem;
   }
 }
