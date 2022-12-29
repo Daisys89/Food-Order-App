@@ -8,10 +8,10 @@ const MealsSummary = () => {
         Choose a bowl from our broad selection of available bowls and enjoy a
         delicious lunch or dinner at home.
       </p>
-      <p>
+      {/* <p>
         Or pick and select your favorite ingredients and create your own special
         bowl.
-      </p>
+      </p> */}
       <p>All ingredients are selected and prepared with care. </p>
     </section>
   );
