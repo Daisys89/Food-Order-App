@@ -8,21 +8,21 @@ const DUMMY_MEALS = [
     name: 'Crispy Chickpea Bowl',
     description:
       'Rice, crispy chickpeas, spring onion, edamame, carrots, cucumber, tomatos, avocado, and sriracha-mayo',
-    price: '8.99',
+    price: '€ 8.99',
   },
   {
     id: 'm2',
     name: 'Spicy Tofu Bowl',
     description:
       'Spicy marinaded tofu, sushi-rice, red cabbage, avocado, peanuts, lime and soy-mayo ',
-    price: '7.99',
+    price: '€ 7.99',
   },
   {
     id: 'm3',
     name: 'Sweet Potato Bowl',
     description:
       'Rice, sweet potato, mango, corn, vegan salmon, fried unions, white sesam and wasabi-mayo',
-    price: '9.99',
+    price: '€ 9.99',
   },
 ];
 
