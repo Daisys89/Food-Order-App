@@ -38,7 +38,7 @@
   flex-direction: column;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 25em) {
   .actions {
     flex-direction: row;
   }
